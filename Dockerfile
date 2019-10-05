@@ -35,6 +35,7 @@ RUN apk add --no-cache --update php-fpm@php \
     php-mbstring@php \
     php-phar@php \
     php-session@php \
+    php-gd@php \
     php-dom@php \
     php-ctype@php \
     php-zlib@php \
