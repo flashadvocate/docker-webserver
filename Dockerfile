@@ -4,7 +4,7 @@
 FROM nginx:1.15.7-alpine
 
 # MAINTAINER OF THE PACKAGE.
-LABEL maintainer="Neo Ighodaro <neo@creativitykills.co>"
+LABEL maintainer="Chris Deaton <chris@ncsu.edu>"
 
 # INSTALL SOME SYSTEM PACKAGES.
 RUN apk --update --no-cache add ca-certificates \
